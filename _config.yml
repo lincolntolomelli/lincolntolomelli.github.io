@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://thumbs.dreamstime.com/z/quadro-negro-do-da-fórmula-matemática-fórmulas-e-sinais-em-um-140756168.jpg?w=350
+avatar: https://img.freepik.com/vetores-premium/quadro-negro-com-formulas-e-equacoes-cientificas_111409-795.jpg?w=2000
 
 # boolean type, the global switch for TOC in posts.
 toc: true
