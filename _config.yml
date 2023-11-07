@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://static.vecteezy.com/ti/vetor-gratis/p1/21692542-matematica-formulas-matematico-formulas-em-verde-escola-quadro-negro-escrito-a-mao-cientifico-matematica-equacoes-teorias-ou-calculos-fundo-vetor.jpg
+avatar: 
 
 # boolean type, the global switch for TOC in posts.
 toc: true
